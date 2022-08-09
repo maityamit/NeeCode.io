@@ -8,3 +8,11 @@
 3.Two Sum	<br>
 4.Group Anagrams	<br>
 5.Top K Frequent Elements <br>
+
+<h2><p align="center">2.Two Pointers</p></h2>
+
+1.Valid Palindrome <br>
+2.Two Sum II	 <br>
+3.3Sum	 <br>
+4.Container with Most Water	 <br>
+5.Trapping Rain Water <br>
