@@ -16,3 +16,13 @@
 3.3Sum	 <br>
 4.Container with Most Water	 <br>
 5.Trapping Rain Water <br>
+
+<h2><p align="center">4.Stack</p></h2>
+
+1.Valid Parentheses		 <br>
+2.Min Stack		 <br>
+3.Evaluate Reverse Polish Notation		 <br>
+4.Generate Parentheses		 <br>
+5.Daily Temperatures		 <br>
+6.Car Fleet		 <br>
+7.Largest Rectangle in Histogram	 <br>
